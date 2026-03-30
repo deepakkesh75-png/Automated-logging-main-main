@@ -118,7 +118,7 @@ use audit mechanisms to track data changes and ensure compliance.
 
 ## 👨‍💻 Author
 
-Kapil Charan  
+DEEPAK J
 B.Tech Computer Science Engineering 
 Expected Graduation: 2027
 
